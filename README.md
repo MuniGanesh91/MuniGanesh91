@@ -122,7 +122,7 @@ continuously improving my skills to align with modern industry standards."
 </td>
 
 <td align="center" width="120">
-<a href="" target="_blank">
+<a href="https://www.linkedin.com/in/nagaramganesh/" target="_blank">
 <img src="https://skillicons.dev/icons?i=linkedin" width="50"/><br>
 <sub><b>LinkedIn</b></sub>
 </a>
