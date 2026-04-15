@@ -281,12 +281,6 @@ continuously improving my skills to align with modern industry standards."
 <td align="center" width="120">
 <img src="https://skillicons.dev/icons?i=github" width="50"/><br><sub><b>GitHub</b></sub>
 </td>
-<td align="center" width="120">
-<img src="https://skillicons.dev/icons?i=gitlab" width="50"/><br><sub><b>GitLab</b></sub>
-</td>
-<td align="center" width="120">
-<img src="https://skillicons.dev/icons?i=bitbucket" width="50"/><br><sub><b>Bitbucket</b></sub>
-</td>
 </tr>
 </table>
 
@@ -297,35 +291,6 @@ continuously improving my skills to align with modern industry standards."
 <tr>
 <td align="center" width="120">
 <img src="https://skillicons.dev/icons?i=docker" width="50"/><br><sub><b>Docker</b></sub>
-</td>
-<td align="center" width="120">
-<img src="https://skillicons.dev/icons?i=kubernetes" width="50"/><br><sub><b>Kubernetes</b></sub>
-</td>
-<td align="center" width="120">
-<img src="https://skillicons.dev/icons?i=aws" width="50"/><br><sub><b>AWS</b></sub>
-</td>
-<td align="center" width="120">
-<img src="https://skillicons.dev/icons?i=azure" width="50"/><br><sub><b>Azure</b></sub>
-</td>
-<td align="center" width="120">
-<img src="https://skillicons.dev/icons?i=gcp" width="50"/><br><sub><b>GCP</b></sub>
-</td>
-</tr>
-</table>
-
----
-<h2 align="center">📦 Build Tools</h2>
-
-<table align="center">
-<tr>
-<td align="center" width="120">
-<img src="https://skillicons.dev/icons?i=maven" width="50"/><br><sub><b>Maven</b></sub>
-</td>
-<td align="center" width="120">
-<img src="https://skillicons.dev/icons?i=gradle" width="50"/><br><sub><b>Gradle</b></sub>
-</td>
-<td align="center" width="120">
-<img src="https://skillicons.dev/icons?i=npm" width="50"/><br><sub><b>npm</b></sub>
 </td>
 </tr>
 </table>
@@ -355,149 +320,18 @@ continuously improving my skills to align with modern industry standards."
 <td align="center" width="120">
 <img src="https://skillicons.dev/icons?i=postman" width="50"/><br><sub><b>Postman</b></sub>
 </td>
-<td align="center" width="120">
-  <img src="https://cdn.simpleicons.org/swagger/85EA2D" width="50"/><br>
-  <sub><b>Swagger</b></sub>
-</td>
-<td align="center" width="120">
-<img src="https://skillicons.dev/icons?i=selenium" width="50"/><br><sub><b>Selenium</b></sub>
-</td>
 </tr>
-</table>
-
----
-<h2 align="center">🛠️ Other Tools</h2>
-
-<table align="center">
-  <tr>
-    <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=linux" width="50"/><br>
-      <sub><b>Linux</b></sub>
-    </td>
-    <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=bash" width="50"/><br>
-      <sub><b>Bash</b></sub>
-    </td>
-    <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=figma" width="50"/><br>
-      <sub><b>Figma</b></sub>
-    </td>
-  </tr>
 </table>
 
 ---
 ## 📌 Projects
 
 ---
-### 🛒 FreshCart E-Commerce Platform
-
-**Tech Stack:** React | TypeScript | Supabase | PostgreSQL
-
-- Developed a full-stack e-commerce web application with user and admin functionalities.
-- Implemented authentication using Supabase (signup, login, session management).
-- Built dynamic product listing with category-based filtering.
-- Designed a relational cart system using cart and cart_items tables.
-- Enabled add-to-cart, update quantity, and remove item features.
-- Implemented checkout flow with order data handling.
-- Configured Row Level Security (RLS) for secure user-specific data access.
-- Handled real-world issues like foreign key constraints and API errors.
-
-🔗 Live Demo: https://freshcart-fy0h.onrender.com/
-
----
-### 🛒 GlobalMart E-Commerce Platform  
-**Tech Stack:** Java | Spring Boot | Hibernate | MySQL | Razorpay  
-
-- Developed a full-stack e-commerce application with Admin and Customer modules.  
-- Implemented secure authentication (registration, login, logout).  
-- Built admin dashboard for managing products and users (CRUD operations).  
-- Integrated business analytics (daily, monthly, yearly reports).  
-- Enabled cart management and order processing for customers.  
-- Integrated Razorpay for secure online payments and order confirmation.  
-
-🔗 **Live Demo:** https://peetlamahesh123.github.io/globalmart/  
-
----
-
-### 🎓 React Todo Application  
-**Tech Stack:** React.js | JavaScript | Local Storage  
-
-- Developed a responsive task management application using React.  
-- Implemented add, edit, delete, and mark-as-complete features.  
-- Used React Hooks (useState, useEffect) for efficient state management.  
-- Integrated Local Storage for persistent data handling.  
-
-🔗 **Live Demo:** https://peetlamahesh123.github.io/react-todo-app/  
-
----
-
-### 🤖 AI-Powered Portfolio Website  
-**Tech Stack:** HTML | CSS | JavaScript | AI API  
-
-- Built a fully responsive personal portfolio website.  
-- Integrated a custom AI assistant to answer queries about skills and projects.  
-- Implemented real-time AI responses using API integration.  
-- Designed dynamic UI sections for projects, certifications, and contact details.  
-- Enhanced recruiter interaction through intelligent guided responses.  
-
-🔗 **Live Demo:** https://peetlamahesh123.github.io/myPortfolio/  
-
----
-
-### 🛒 Shop Management System  
-**Tech Stack:** Java | Hibernate  
-
-- Implemented admin-only authentication using enum-based role management.  
-- Developed secure CRUD operations for managing shop data.  
-- Ensured data protection with proper validation and access control.  
-
----
-
-### 🧠 Online Quiz Application  
-**Tech Stack:** HTML | CSS | JavaScript  
-
-- Built an interactive quiz platform with dynamic question rendering.  
-- Implemented answer validation and score tracking system.  
-- Added countdown timer for improved user engagement.  
-- Designed a clean and responsive user interface.  
-
-🔗 **Live Demo:** https://peetlamahesh123.github.io/QuizApplicationOnline/  
-
----
-
-### 🎓 Student Management System  
-**Tech Stack:** Java | JDBC | MySQL  
-
-- Developed CRUD operations for managing student records.  
-- Used JDBC for secure and efficient database connectivity.  
-- Implemented structured query handling and data validation.  
-
----
-
-### 🎮 Guess Word Game  
-**Tech Stack:** HTML | CSS | JavaScript  
-
-- Developed an interactive word guessing game.  
-- Implemented random word generation and input validation.  
-- Provided real-time feedback for user inputs.  
-- Designed engaging UI with win/lose logic and attempt limits.  
-
-🔗 **Live Demo:** https://peetlamahesh123.github.io/GuessWordGame/  
-
----
-
-### 🏥 Hospital Management System  
-**Tech Stack:** Java | JDBC | MySQL  
-
-- Managed patients, doctors, and appointment records.  
-- Designed relational database schema for efficient data handling.  
-- Implemented CRUD operations using JDBC connectivity.  
 
 ---
 ## 📚 Currently Learning
 
-- Microservices Architecture
-- Advanced Spring Security
+
 - Docker & Kubernetes
 - AWS Cloud Deployment
 - System Design Fundamentals
@@ -509,24 +343,24 @@ continuously improving my skills to align with modern industry standards."
   <tr>
     <td align="center" width="120">
       <img src="https://img.icons8.com/color/96/graduation-cap.png" width="60"/><br>
-      <sub><b>B.E. – CSE</b></sub>
+      <sub><b>BCA </b></sub>
     </td>
     <td>
-      <b>Akshaya College of Engineering and Technology</b><br>
-      2021 – 2025<br>
-      🎯 CGPA: <b>8.24 / 10</b>
+      <b>Mohan Babu University</b><br>
+      2022 – 2025<br>
+      🎯 CGPA: <b>8.9 / 10</b>
     </td>
   </tr>
 
   <tr>
     <td align="center" width="120">
       <img src="https://img.icons8.com/color/96/books.png" width="60"/><br>
-      <sub><b>Intermediate (HSC)</b></sub>
+      <sub><b>Intermediate </b></sub>
     </td>
     <td>
-      <b>Sri Krishna Reddy Siddhartha Junior College</b><br>
-      2019 – 2021<br>
-      📊 Percentage: <b>94.8%</b>
+      <b>Emeralds Junior College</b><br>
+      2020 – 2022<br>
+      📊 Percentage: <b>82%</b>
     </td>
   </tr>
 
@@ -536,9 +370,9 @@ continuously improving my skills to align with modern industry standards."
       <sub><b>Secondary (SSC)</b></sub>
     </td>
     <td>
-      <b>Zilla Parishad High School</b><br>
-      2018 – 2019<br>
-      🎯 CGPA: <b>9.8 / 10</b>
+      <b>SKRS High School</b><br>
+      2019 – 2020<br>
+      🎯 Percentage: <b>87%</b>
     </td>
   </tr>
 </table>
@@ -547,31 +381,16 @@ continuously improving my skills to align with modern industry standards."
 ---
 ## 🏆 Certifications & Achievements
 
-- 🏅 Dr. Kalam Young Achiever Award  
-- 💼 JPMorgan Chase Job Simulation  
-- 🌐 Cisco Network Essentials  
-- 🤖 AI Tools & ChatGPT Workshop  
-- ☁️ MongoDB Atlas  
-- ⚙️ UiPath Automation  
-
----
-
-<h2 align="center"> 🐍 Contribution Snake </h2>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
-</p>
-
 ---
 ## 📞 Contact Me
-    Phone : +91 9182353829
-    email: peetlamahesh81@gmail.com
+    Phone : +91 9100750013
+    email: ganeshnagaram93@gmail.com
  Address:Tirupati, Andhra Pradesh, India 
 
  <table align="center">
 <tr>
 <td align="center">
-<a href="https://www.google.com/maps/search/?api=1&query=11-106C-1,+B.+Kotha+Vaddi+Palli,+Balaiahgari+Palli,+Kalakada,+Annamaiah,+Tirupati,+Andhra+Pradesh,+517236" target="_blank">
+<a href="https://www.google.com/maps/search/?api=1&query=4-3-362 Giripuram Nehru nagar Tirupati,Andhra pradesh" target="_blank">
   <img src="https://img.icons8.com/fluency/48/navigation.png" width="50"/>
 </a><br>
 <sub><b>Tirupati, Andhra Pradesh, India</b></sub>
