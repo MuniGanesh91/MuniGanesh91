@@ -1,7 +1,6 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,100:4A00E0&height=160&section=header&text=💻%20Hi%20👋,%20I'm%20Nagarm%20Muni Ganesh%20⚡&fontSize=38&fontAlignY=40&animation=fadeIn&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,100:4A00E0&height=160&section=header&text=💻%20Hi%20👋,%20I'm%20Nagaram%20Muni%20Ganesh%20⚡&fontSize=38&fontAlignY=40&animation=fadeIn&fontColor=ffffff" />
 </div>
-
 
 <!-- 👁 Profile Views -->
 <div align="center">
@@ -16,7 +15,7 @@
 ---
 <!-- 🔥 Animated Typing -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Playfair+Display&weight=800&size=30&duration=3500&pause=1000&color=39FF14&center=true&vCenter=true&width=1000&height=90&lines=💻+Full+Stack+Web+Developer;⚡+Python+%26+Django+Backend+Engineer;🛢️+MySQL+%26+Database+Specialist;🔐+Authentication+%26+REST+API+Developer;📊+Data+Structures+%26+Algorithms+Programmer;🎯+Problem+Solving+Enthusiast;🎨+UI%2FUX+Design+Explorer;🚀+Software+Development+Engineer;🧠+Core+Computer+Science+Learner" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Playfair+Display&weight=800&size=30&duration=3500&pause=1000&color=39FF14&center=true&vCenter=true&width=1000&height=90&lines=💻+Full+Stack+Web+Developer;⚡+Python+%26+Django+Backend+Engineer;🛢️+MySQL+%26+Database+Specialist;🔐+Authentication+%26+REST+API+Developer;📊+Data+Structures+%26+Algorithms+Programmer;🎯+Problem+Solving+Enthusiast;🚀+Software+Development+Engineer;🧠+Computer applications />
 </div>
 
 ---
