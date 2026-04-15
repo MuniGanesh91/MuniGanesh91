@@ -8,7 +8,7 @@
 <img src="https://komarev.com/ghpvc/?username=MuniGanesh91&label=Profile%20Views&color=8A2BE2&style=for-the-badge" />
 <img src="https://img.shields.io/github/followers/MuniGanesh91?label=Followers&style=for-the-badge&color=1E90FF" />
 <img src="https://img.shields.io/badge/dynamic/json?label=Following&query=%24.following&url=https://api.github.com/users/MuniGanesh91&style=for-the-badge&color=28A745" />
-<img src="https://img.shields.io/badge/GitHub%20Grade-A+-orange?style=for-the-badge&logo=github" />
+<img src="https://img.shields.io/badge/GitHub%20Grade-C-orange?style=for-the-badge&logo=github" />
 
 </div>
 
