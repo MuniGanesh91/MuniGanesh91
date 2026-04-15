@@ -37,15 +37,14 @@ continuously improving my skills to align with modern industry standards."
 <tr>
 
 <td align="center">
-<img src="https://skillicons.dev/icons?i=Python" width="40"/><br>
-<sub>Python</sub>
+  <img src="https://skillicons.dev/icons?i=python" width="40"/><br>
+  <sub>Python</sub>
 </td>
 
 <td align="center">
-<img src="https://skillicons.dev/icons?i=Django" width="40"/><br>
-<sub>Django</sub>
+  <img src="https://skillicons.dev/icons?i=django" width="40"/><br>
+  <sub>Django</sub>
 </td>
-
 
 <td align="center">
 <img src="https://skillicons.dev/icons?i=react" width="40"/><br>
